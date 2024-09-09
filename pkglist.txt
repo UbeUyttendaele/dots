@@ -30,7 +30,7 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
-rust
+rustup
 sof-firmware
 thunar
 thunar-archive-plugin
