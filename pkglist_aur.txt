@@ -3,7 +3,7 @@ brave-bin
 grimblast-git
 hyprland-git
 hyprlock-git
-hyprpicker
+hyprpicker-git
 hyprutils-git
 oh-my-posh-git
 orchis-theme-git
